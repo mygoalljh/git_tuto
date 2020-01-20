@@ -1,0 +1,8 @@
+D:\Myproj\FUP\FUP\bin\Debug\netstandard2.0\FUP.deps.json
+D:\Myproj\FUP\FUP\bin\Debug\netstandard2.0\FUP.dll
+D:\Myproj\FUP\FUP\bin\Debug\netstandard2.0\FUP.pdb
+D:\Myproj\FUP\FUP\obj\Debug\netstandard2.0\FUP.csprojAssemblyReference.cache
+D:\Myproj\FUP\FUP\obj\Debug\netstandard2.0\FUP.AssemblyInfoInputs.cache
+D:\Myproj\FUP\FUP\obj\Debug\netstandard2.0\FUP.AssemblyInfo.cs
+D:\Myproj\FUP\FUP\obj\Debug\netstandard2.0\FUP.dll
+D:\Myproj\FUP\FUP\obj\Debug\netstandard2.0\FUP.pdb
